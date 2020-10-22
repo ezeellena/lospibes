@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c49e954-8187-43c0-b219-8a84bc61f2c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/Procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/pushups_logger/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/pushups_logger/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/pushups_logger/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/pushups_logger/db.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/pushups_logger/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/pushups_logger/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/pushups_logger/static/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/pushups_logger/static/beauty.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/pushups_logger/static/extended_beauty.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/pushups_logger/static/images/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/pushups_logger/static/images/muscle.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/pushups_logger/static/images/muscle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/pushups_logger/static/images/pushup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/pushups_logger/templates/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/pushups_logger/templates/all_workouts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/pushups_logger/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/pushups_logger/templates/create_workout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/pushups_logger/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/pushups_logger/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/pushups_logger/templates/profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/pushups_logger/templates/signup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/pushups_logger/templates/update_workout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_10_page/.vscode/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_10_page/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_10_page/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_10_page/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_10_page/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_10_page/db.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_10_page/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_10_page/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_10_page/static/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_10_page/static/beauty.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_10_page/static/extended_beauty.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_10_page/static/images/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_10_page/static/images/muscle.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_10_page/static/images/muscle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_10_page/static/images/pushup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_10_page/templates/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_10_page/templates/all_workouts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_10_page/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_10_page/templates/create_workout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_10_page/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_10_page/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_10_page/templates/profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_10_page/templates/signup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_10_page/templates/update_workout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_11_deploy/Procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_11_deploy/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_11_deploy/pushups_logger/.vscode/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_11_deploy/pushups_logger/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_11_deploy/pushups_logger/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_11_deploy/pushups_logger/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_11_deploy/pushups_logger/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_11_deploy/pushups_logger/db.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_11_deploy/pushups_logger/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_11_deploy/pushups_logger/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_11_deploy/pushups_logger/static/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_11_deploy/pushups_logger/static/beauty.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_11_deploy/pushups_logger/static/extended_beauty.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_11_deploy/pushups_logger/static/images/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_11_deploy/pushups_logger/static/images/muscle.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_11_deploy/pushups_logger/static/images/muscle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_11_deploy/pushups_logger/static/images/pushup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_11_deploy/pushups_logger/templates/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_11_deploy/pushups_logger/templates/all_workouts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_11_deploy/pushups_logger/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_11_deploy/pushups_logger/templates/create_workout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_11_deploy/pushups_logger/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_11_deploy/pushups_logger/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_11_deploy/pushups_logger/templates/profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_11_deploy/pushups_logger/templates/signup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_11_deploy/pushups_logger/templates/update_workout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_11_deploy/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_2_hello_world/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_2_hello_world/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_2_hello_world/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_2_hello_world/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_2_hello_world/templates/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_2_hello_world/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_2_hello_world/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_2_hello_world/templates/profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_2_hello_world/templates/signup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_3_templates/.vscode/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_3_templates/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_3_templates/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_3_templates/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_3_templates/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_3_templates/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_3_templates/static/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_3_templates/static/beauty.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_3_templates/static/extended_beauty.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_3_templates/static/images/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_3_templates/static/images/muscle.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_3_templates/static/images/muscle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_3_templates/static/images/pushup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_3_templates/templates/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_3_templates/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_3_templates/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_3_templates/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_3_templates/templates/profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_3_templates/templates/signup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_4_forms/.vscode/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_4_forms/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_4_forms/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_4_forms/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_4_forms/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_4_forms/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_4_forms/static/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_4_forms/static/beauty.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_4_forms/static/extended_beauty.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_4_forms/static/images/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_4_forms/static/images/muscle.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_4_forms/static/images/muscle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_4_forms/static/images/pushup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_4_forms/templates/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_4_forms/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_4_forms/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_4_forms/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_4_forms/templates/profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_4_forms/templates/signup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_5_database/.vscode/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_5_database/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_5_database/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_5_database/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_5_database/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_5_database/db.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_5_database/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_5_database/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_5_database/static/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_5_database/static/beauty.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_5_database/static/extended_beauty.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_5_database/static/images/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_5_database/static/images/muscle.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_5_database/static/images/muscle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_5_database/static/images/pushup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_5_database/templates/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_5_database/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_5_database/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_5_database/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_5_database/templates/profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_5_database/templates/signup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_6_user_auth/.vscode/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_6_user_auth/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_6_user_auth/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_6_user_auth/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_6_user_auth/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_6_user_auth/db.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_6_user_auth/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_6_user_auth/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_6_user_auth/static/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_6_user_auth/static/beauty.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_6_user_auth/static/extended_beauty.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_6_user_auth/static/images/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_6_user_auth/static/images/muscle.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_6_user_auth/static/images/muscle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_6_user_auth/static/images/pushup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_6_user_auth/templates/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_6_user_auth/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_6_user_auth/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_6_user_auth/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_6_user_auth/templates/profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_6_user_auth/templates/signup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_7_crud/.vscode/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_7_crud/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_7_crud/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_7_crud/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_7_crud/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_7_crud/db.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_7_crud/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_7_crud/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_7_crud/static/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_7_crud/static/beauty.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_7_crud/static/extended_beauty.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_7_crud/static/images/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_7_crud/static/images/muscle.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_7_crud/static/images/muscle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_7_crud/static/images/pushup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_7_crud/templates/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_7_crud/templates/all_workouts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_7_crud/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_7_crud/templates/create_workout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_7_crud/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_7_crud/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_7_crud/templates/profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_7_crud/templates/signup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_8_ud/.vscode/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_8_ud/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_8_ud/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_8_ud/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_8_ud/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_8_ud/db.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_8_ud/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_8_ud/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_8_ud/static/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_8_ud/static/beauty.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_8_ud/static/extended_beauty.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_8_ud/static/images/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_8_ud/static/images/muscle.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_8_ud/static/images/muscle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_8_ud/static/images/pushup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_8_ud/templates/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_8_ud/templates/all_workouts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_8_ud/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_8_ud/templates/create_workout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_8_ud/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_8_ud/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_8_ud/templates/profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_8_ud/templates/signup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_8_ud/templates/update_workout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_9_flash/.vscode/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_9_flash/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_9_flash/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_9_flash/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_9_flash/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_9_flash/db.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_9_flash/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_9_flash/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_9_flash/static/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_9_flash/static/beauty.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_9_flash/static/extended_beauty.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_9_flash/static/images/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_9_flash/static/images/muscle.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_9_flash/static/images/muscle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_9_flash/static/images/pushup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_9_flash/templates/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_9_flash/templates/all_workouts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_9_flash/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_9_flash/templates/create_workout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_9_flash/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_9_flash/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_9_flash/templates/profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_9_flash/templates/signup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abm/pushups-logger/tutorials/pl_video_9_flash/templates/update_workout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_secret.json" beforeDir="false" afterPath="$PROJECT_DIR$/client_secret.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/excel.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\eellena\Desktop\lospibes\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j4Wlk4BCCRcAuLkjkCpELYCgBp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="excel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lospibes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/excel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.excel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c49e954-8187-43c0-b219-8a84bc61f2c5" name="Default Changelist" comment="" />
+      <created>1603063996199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603063996199</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1603067274050">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1603067274050" />
+    <state width="1364" height="440" key="DebuggerActiveHint" timestamp="1603384520784">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1364" height="440" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1603384520784" />
+    <state x="565" y="258" width="260" height="211" key="Github.ShareDialog" timestamp="1603067245493">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="565" y="258" width="260" height="211" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1603067245493" />
+    <state x="523" y="70" key="Github.UntrackedFilesDialog" timestamp="1603067256456">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="523" y="70" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1603067256456" />
+    <state width="1345" height="194" key="GridCell.Tab.0.bottom" timestamp="1603386902823">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="194" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603386902823" />
+    <state width="1345" height="194" key="GridCell.Tab.0.center" timestamp="1603386902823">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="194" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603386902823" />
+    <state width="1345" height="194" key="GridCell.Tab.0.left" timestamp="1603386902823">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="194" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603386902823" />
+    <state width="1345" height="194" key="GridCell.Tab.0.right" timestamp="1603386902823">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="194" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603386902823" />
+    <state width="1345" height="194" key="GridCell.Tab.1.bottom" timestamp="1603386902823">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="194" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603386902823" />
+    <state width="1345" height="194" key="GridCell.Tab.1.center" timestamp="1603386902823">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="194" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1603386902823" />
+    <state width="1345" height="194" key="GridCell.Tab.1.left" timestamp="1603386902823">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="194" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1603386902823" />
+    <state width="1345" height="194" key="GridCell.Tab.1.right" timestamp="1603386902823">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="194" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1603386902823" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1603067296417">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603067296417" />
+    <state x="339" y="17" width="672" height="676" key="search.everywhere.popup" timestamp="1603374554581">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="17" width="672" height="676" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1603374554581" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/excel.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/excel.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
